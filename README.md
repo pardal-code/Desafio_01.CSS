@@ -2,10 +2,10 @@
 
 # Descrição
 
-Este repositório contém a solução para um desafio de CSS proposto. O objetivo do desafio era criar uma página web utilizando técnicas avançadas de CSS, como Flexbox e Grid Layout, além de aplicar estilizações para melhorar a experiência do usuário. Nota: Este desafio não inclui responsividade.
+Este repositório contém a solução para um desafio de CSS proposto. O objetivo do desafio era criar uma página web estilizada utilizando técnicas de CSS para melhorar a aparência e a experiência do usuário. O projeto inclui a criação de um banner com imagem de fundo, sombras, bordas arredondadas, e estilização de textos e botões. Nota: Este desafio não inclui responsividade e não utiliza Flexbox.
 
 # Objetivos
-* Utilizar Flexbox e Grid Layout para organizar os elementos da página.
+* Utilizar técnicas de CSS para organizar os elementos da página.
 * Aplicar sombras, bordas arredondadas e transições para melhorar a estética da página.
 # Solução
   * Estrutura do Projeto
